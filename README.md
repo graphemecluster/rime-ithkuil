@@ -2,12 +2,12 @@
 
 This is a simplistic [RIME](https://rime.im) schema that inputs characters used in Ithkuil (III) and The New Ithkuil Language (IV) with ASCII keys.
 
-The input keys are mostly intuitive, e.g. typing `c^h` inputs ⟨čʰ⟩ while `~` inputs the character for falling-rising tone, ⟨ˇ⟩. For details, refer to [this manual](https://laethiel.fr/ithkuil/manual.php).
+The input keys are mostly intuitive, e.g. typing <kbd>c</kbd><kbd>^</kbd><kbd>h</kbd> yields ⟨čʰ⟩ while <kbd>~</kbd> produces the character for falling-rising tone, ⟨ˇ⟩. For details, refer to [this manual](https://laethiel.fr/ithkuil/manual.php).
 
 > [!NOTE]
-> - Since Ithkuil use ⟨ż⟩ for /d͡z/, which is inputted by `z.`, **use `z,` to type ⟨ẓ⟩** in The New Ithkuil Language.
-> - `-` is used to type the character for high tone, ⟨ˉ⟩. To **type a hyphen** specified for syllabification, **use `=`**. The result character is a non-breaking hyphen, which means a word won’t wrap at it even if the word falls at the end of a line.
-> - To type the original character, input the character twice. Tripling the last character of the input results in a transformed character plus the original character.
+> - Since Ithkuil use ⟨ż⟩ for /d͡z/, which is inputted by <kbd>z</kbd><kbd>.</kbd>, **type <kbd>z</kbd><kbd>,</kbd> to produce ⟨ẓ⟩** in The New Ithkuil Language.
+> - Typing <kbd>-</kbd> yields the character for high tone, ⟨ˉ⟩. To produce **a hyphen** specified for syllabification, **type <kbd>=</kbd>**. The result character is a non-breaking hyphen, which means a word won’t wrap at it even if the word falls at the end of a line.
+> - To produce the original character, input the character twice. Tripling the last character of the input results in a transformed character plus the original character.
 
 ## Installation
 

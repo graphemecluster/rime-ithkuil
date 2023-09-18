@@ -10,12 +10,12 @@ schema:
   description: |
     Input Method for Ithkuil and The New Ithkuil Language
     Note that since Ithkuil use ⟨ż⟩ for /d͡z/, which is inputted by “z.”,
-    use “z,” to type ⟨ẓ⟩ in The New Ithkuil Language.
-    “-” is used to type the character for high tone, ⟨ˉ⟩.
-    To type a hyphen specified for syllabification, use “=”.
+    type “z,” to produce ⟨ẓ⟩ in The New Ithkuil Language.
+    Typing “-” yields the character for high tone, ⟨ˉ⟩.
+    To produce a hyphen specified for syllabification, type “=”.
     The result character is a non-breaking hyphen, which means a word
     won’t wrap at it even if the word falls at the end of a line.
-    To type the original character, input the character twice.
+    To produce the original character, input the character twice.
     Tripling the last character of the input results in a transformed
     character plus the original character.
 
