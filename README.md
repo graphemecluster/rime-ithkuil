@@ -4,7 +4,7 @@ English ｜ [日本語](./README-ja.md)
 
 This is a simplistic [RIME](https://rime.im) schema that inputs characters used in Ithkuil (III) and The New Ithkuil Language (IV) with ASCII keys.
 
-The key sequences for inputting are mostly intuitive, e.g. typing <kbd>c</kbd><kbd>^</kbd><kbd>h</kbd> yields ⟨čʰ⟩ while <kbd>~</kbd> produces the character for falling-rising tone, ⟨ˇ⟩. For details, refer to [this manual](https://laethiel.fr/ithkuil/manual.php).
+The key sequences for inputting are mostly intuitive, e.g. typing <kbd>c</kbd><kbd>^</kbd><kbd>h</kbd> yields ⟨čʰ⟩ while <kbd>~</kbd> produces the character for falling-rising tone, ⟨ˇ⟩. For details, refer to [this manual](https://laethiel.fr/ithkuil/manual.php). <kbd>:</kbd> and <kbd>\\</kbd> have the alternative keys <kbd>;</kbd> and <kbd>`</kbd> respectively.
 
 > [!NOTE]
 > - Since Ithkuil use ⟨ż⟩ for /d͡z/, which is inputted by <kbd>z</kbd><kbd>.</kbd>, **type <kbd>z</kbd><kbd>,</kbd> to produce ⟨ẓ⟩** in The New Ithkuil Language.
